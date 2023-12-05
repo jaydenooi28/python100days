@@ -1,6 +1,7 @@
 # python100days
 100days projects
 Day 1: Band Name Generator
+
 Day 2: Tip Calculator
 Day 3: Treasure Island
 Day 4: Rock Paper Siccors
