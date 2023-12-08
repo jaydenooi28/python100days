@@ -47,4 +47,4 @@ GitHub Link: [https://github.com/jaydenooi28/python100days/tree/main/Day11]
 
 👉 [LinkedIn](https://my.linkedin.com/in/wey-sheng-ooi-556009165)
 
-📧 [Email](jaydenooi28@gmail.com)
+📧 jaydenooi28@gmail.com
