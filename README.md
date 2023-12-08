@@ -7,7 +7,10 @@
 ## 🌟  Highlights
  
 🎓 Day 1-14: Beginner Mastered the basics of Python, including variables, loops, and functions.
-	
+
+<details>
+  **<summary>Click to expand</summary>**
+  
 	🎸 Day 1: Band Name Generator
 	
 	🧮 Day 2: Tip Calculator
@@ -29,8 +32,9 @@
 	🧮 Day 10: Calculator
 	
 	🃏 Day 11: Blackjack Capstone Project
-
- 
+  
+</details>
+	
 
 ## 🚧 **Capstone Projects**
 
