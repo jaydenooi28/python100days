@@ -42,7 +42,7 @@
 
 🃏 Welcome to my Python-based Blackjack game! Experience the classic card game where strategy meets luck. Beat the dealer, avoid busting, and aim for the coveted Blackjack. Dive into the code and enjoy the thrill of this timeless casino favorite. Ready to challenge the dealer? Let the games begin! 🌟
 
-GitHub Link: [https://github.com/jaydenooi28/python100days/tree/main/Day11]
+GitHub Link: [https://github.com/jaydenooi28/python100days/tree/main/Beginner/Day11]
 
 
 
