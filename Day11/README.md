@@ -1,1 +1,1 @@
-bug fix on new version
+Bug fix on latest version
