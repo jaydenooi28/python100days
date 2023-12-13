@@ -34,6 +34,8 @@
 	🃏 Day 11: Blackjack Capstone Project
  
  	🎯 Day 12: Number Guessing Game
+  
+  	🐞 Day 13: Debug practise
  		
   
 </details>
