@@ -35,7 +35,9 @@
  
  	🎯 Day 12: Number Guessing Game
   
-  	🐞 Day 13: Debug practise
+  	🐞 Day 13: Debug practice
+   		
+	🎮 Day 14: High Lower Game
  		
   
 </details>
