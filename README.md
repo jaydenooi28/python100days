@@ -6,7 +6,7 @@
 
 ## 🌟  Highlights
  
-🎓 Day 1-14: Beginner Mastered the basics of Python, including variables, loops, and functions.
+🎓 Day 1-14: Beginner Mastered the basics of Python, including variables, loops, and functions. [Completed]
 
 <details>
   **<summary>Click to expand</summary>**
