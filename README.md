@@ -40,6 +40,7 @@
 	🎮 Day 14: High Lower Game
   
 </details>
+
 🎓 Day 15-31: expand on intermediate Python skills, covering advanced topics such as OOP, Turtle for creative programming, GUI development, instances, file paths, CSV handling with Pandas, and error and exception management.
 
 <details>
