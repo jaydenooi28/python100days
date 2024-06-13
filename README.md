@@ -47,6 +47,13 @@
   **<summary>Click to expand</summary>**
   
 	☕️ Day 15: Coffee Machine
+
+ 	🎯 Day 16: OOP tutorial
+  
+  	🐞 Day 17: Creating Class
+
+	🐞 Day 18: Drawing Shapes with Tutle
+		   
   
 </details>	
 
